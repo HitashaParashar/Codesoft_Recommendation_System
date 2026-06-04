@@ -48,3 +48,5 @@ streamlit run app.py
 4. Find top similar users
 5. Recommend movies that similar users liked
 
+## Internship
+This project was built as part of CodSoft Internship Task.
